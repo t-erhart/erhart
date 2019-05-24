@@ -14,8 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Tanja Erhart
-email: tanja.erhart@gmx.at
+email: tanz.jaaa@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
+  Tanja Erhart, self identified dis_abled cultural scientist, contemporary dancer and a human being of many...
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://tanjaerh.art" # the base hostname & protocol for your site, e.g. http://example.com
 
