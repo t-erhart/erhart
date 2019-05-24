@@ -47,11 +47,11 @@ If you’ve got questions about my current artistic and academic projects, want 
 With love always,<br>
 Tanja 
 
-![wchar2](/assets/wchair2.png)<br>
+![wchar2](/assets/wchair2.png)<br><br><br>
 
 <hr><hr>
-# Calendar : 2019
-<hr><hr>
+# Events : 2019
+<hr><hr><br>
 ![clock](/assets/clock.png)&nbsp;&nbsp;&nbsp;&nbsp;May 30 – June 02<br>
 ![wchair](/assets/wchair.png)&nbsp;&nbsp;&nbsp;&nbsp;Urbanraum und Uferstudios.Hosted by Making a Difference - Berlin/Germany <br>
 ![unicorn](/assets/unicorn.png)&nbsp;&nbsp;&nbsp;&nbsp;[Workshop] [Advanced Teacher training with Mirjam Gurtner](https://www.facebook.com/events/489295924943501/)
